@@ -1,6 +1,6 @@
 # basic_chat_firebase
 
-** Introduction**
+**Introduction**
 
 This is a basic real-time chat application built using Firebase as the backend to store and retrieve messages. The UI runs on a local server using Node.js.
 
