@@ -13,13 +13,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC_1SmJU9O_ozTE51vpRFYIuTOSQN-ORhY",
-    authDomain: "chat-web3-5e600.firebaseapp.com",
-    projectId: "chat-web3-5e600",
-    storageBucket: "chat-web3-5e600.firebasestorage.app",
-    messagingSenderId: "849516935944",
-    appId: "1:849516935944:web:547c9287ea8f37ecb64abd",
-    measurementId: "G-RLHR0LSYWQ"
+    apiKey: "",
+    authDomain: "",
+    projectId:" ",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
 const app = initializeApp(firebaseConfig);
